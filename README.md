@@ -14,7 +14,7 @@ Achievement 1: Intro To Product Management
 6. Design, Prototypes, MVPs
 7. Team Alignment
 
-![Intro Certificate](CareerFoundry_Certificate_Marius Avram.png)
+![Intro Certificate](https://github.com/mariusavram91/cf-pm/blob/main/CareerFoundry_Certificate_Marius%20Avram.png)
 
 ## Immersion Course - Sync App (video conferencing app)
 
