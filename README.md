@@ -28,3 +28,14 @@ Achievement 1: Understand Your Product & Align the Team
 4. Creating Product Principles
 5. Aligning Project Timelines and Budgets
 6. Creating a Product Roadmap
+
+Achievement 2: Initiate Research and Define Solutions
+
+[Exercises](/main/2) (Conducting Research, Organising Research Data, Conduct Analysis, Present Findings, Ideation, Defining Solutions)
+
+1. Conducting Valuable Research
+2. Organising Reasearch & Data
+3. Conducting Effective Analysis
+4. Articulating Information
+5. Generating & Prioritising Ideas
+6. Defining Product Solutions
