@@ -1,5 +1,15 @@
 # CareerFoundry Product Management Course
 
+[Career Foundry Course](https://careerfoundry.com/en/courses/become-a-product-manager/)
+
+Online Course for Product Management.
+
+Skill Based:
+"Every aspect of the curriculum is designed for you to cultivate the most in-demand  skills. From hard skills like research, documentation, and low-fidelity prototyping,  to the soft skills of stakeholder presentation and team collaboration—you’ll  graduate well-rounded and job-ready."
+
+Practical:
+"Learn with a project-based curriculum that takes you beyond theory and into  immersive tasks that will directly reflect the kind of work you’ll do on the job.  Put everything you learn to immediate, practical use through hands-on projects  you’ll build your extensive portfolio around."
+
 ## Intro Course - MakeYourMaps App (maps and local guide app)
 
 Achievement 1: Intro To Product Management
