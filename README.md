@@ -49,3 +49,14 @@ Achievement 2: Initiate Research and Define Solutions
 4. Articulating Information
 5. Generating & Prioritising Ideas
 6. Defining Product Solutions
+
+Achievement 3: Validate & Refine Ideas
+
+[Exercises](/main/3) (PM, Prototypes, MVPs, User Feedback, PRD, Preparing for Development)
+
+1. Defining the Product Manager’s Role during Product Validation
+2. Prototyping & Testing
+3. Designing Iterations & User Feedback
+4. Developing MVPs & PoCs
+5. Finalizing Your PRD
+6. Preparing for Development
